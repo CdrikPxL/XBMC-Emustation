@@ -1,0 +1,397 @@
+# xbmc media center language file
+msgid ""
+msgstr ""
+"project-id-version: xbmc4xbox\n"
+"report-msgid-bugs-to: rocky5 xbmc4xbox forums\n"
+"pot-creation-date: year-mo-da ho:mi+zone\n"
+"po-revision-date: year-mo-da ho:mi+zone\n"
+"last-translator: rocky5\n"
+"language-team: french cdrikpxl\n"
+"mime-version: 1.0\n"
+"content-type: text/plain; charset=utf-8\n"
+"content-transfer-encoding: 8bit\n"
+"language: fr\n"
+"plural-forms: nplurals=2; plural=(n != 1);\n"
+
+## version
+msgctxt "#31000"
+msgid "xbmc-emustation 0.0.000"
+msgstr ""
+
+## internal - no xml file id's cannot be changed, unless you recompile the xbe
+msgctxt "#32000"
+msgid "Advanced"
+msgstr "AVANCÉE"
+
+msgctxt "#32001"
+msgid "Disable slow scrolling"
+msgstr "DÉSACTIVER LE DÉFILEMENT LENT"
+
+msgctxt "#32002"
+msgid "Enable fast game parsing"
+msgstr "Activer l'analyse rapide du jeu"
+
+## bottom screen buttons - includes.xml
+msgctxt "#30900"
+msgid "choose"
+msgstr "choisir"
+
+msgctxt "#30901"
+msgid "stop"
+msgstr "ARRÊTER"
+
+msgctxt "#30902"
+msgid "select"
+msgstr "SÉLECTIONNER"
+
+msgctxt "#30903"
+msgid "back"
+msgstr "retour"
+
+msgctxt "#30904"
+msgid "random"
+msgstr "ALÉATOIRE"
+
+msgctxt "#30905"
+msgid "preview"
+msgstr "aperçu"
+
+msgctxt "#30906"
+msgid "context menu"
+msgstr "menu contextuel"
+
+msgctxt "#30907"
+msgid "screensaver"
+msgstr "ÉCONOMISEUR D'ÉCRAN"
+
+msgctxt "#30908"
+msgid "visualisation"
+msgstr ""
+
+msgctxt "#30909"
+msgid "music controls"
+msgstr "commandes de musique"
+
+msgctxt "#30910"
+msgid "menu"
+msgstr ""
+
+msgctxt "#30911"
+msgid "options"
+msgstr ""
+
+## options - settings.xml - 31000 to 31019
+msgctxt "#31100"
+msgid "calibrate screen"
+msgstr "CALIBRER L'ÉCRAN"
+
+msgctxt "#31101"
+msgid "acknowledgements"
+msgstr "remerciements"
+
+msgctxt "#31102"
+msgid "change log"
+msgstr "journal des modifications"
+
+msgctxt "#31103"
+msgid "downloader"
+msgstr "TÉLÉCHARGEUR"
+
+msgctxt "#31104"
+msgid "welcome screen"
+msgstr "ÉCRAN D’ACCUEIL"
+
+## system info - settingssysteminfo.xml - 31020 to 31040
+msgctxt "#31120"
+msgid "memory used:"
+msgstr "MÉMOIRE UTILISÉ:"
+
+## menu system - custom_menu.xml - 31200 to 31229
+msgctxt "#31200"
+msgid "applications"
+msgstr ""
+
+msgctxt "#31201"
+msgid "sound settings"
+msgstr "PARAMÈTRES DE SON"
+
+msgctxt "#31202"
+msgid "ui settings"
+msgstr "PARAMÈTRES UI"
+
+msgctxt "#31203"
+msgid "scanner"
+msgstr ""
+
+msgctxt "#31204"
+msgid "quit"
+msgstr "quitter"
+
+msgctxt "#31205"
+msgid "advanced settings"
+msgstr "PARAMÈTRES AVANCÉS"
+
+## sound settings - custom_soundsettings.xml  - 31230 to 31259
+msgctxt "#31230"
+msgid "system volume"
+msgstr "VOLUME SYSTÈME"
+
+msgctxt "#31231"
+msgid "disable navigation sounds"
+msgstr "DÉSACTIVER LES SONS DE NAVIGATION"
+
+msgctxt "#31232"
+msgid "enable music playback at startup"
+msgstr "ACTIVER LA LECTURE DE MUSIQUE AU DÉMARRAGE"
+
+msgctxt "#31233"
+msgid "generate playlist"
+msgstr "GÉNÉRER UNE PLAYLIST"
+
+msgctxt "#31234"
+msgid "playlist editor"
+msgstr "ÉDITEUR DE PLAYLIST"
+
+msgctxt "#31235"
+msgid "enable old player controls"
+msgstr "activer les anciennes commandes du lecteur"
+
+## ui settings - custom_uisettings.xml - 31260 to 31289
+msgctxt "#31260"
+msgid "view mode"
+msgstr "mode d'affichage"
+
+msgctxt "#31261"
+msgid "basic"
+msgstr "basique"
+
+msgctxt "#31262"
+msgid "detailed"
+msgstr "DÉTAILLÉE"
+
+msgctxt "#31263"
+msgid "thumb"
+msgstr "vignette"
+
+msgctxt "#31264"
+msgid "video"
+msgstr "VIDÉO"
+
+msgctxt "#31265"
+msgid "video delay in seconds"
+msgstr "DÉLAI VIDÉO EN SECONDES"
+
+msgctxt "#31266"
+msgid "customization"
+msgstr "personnalisation"
+
+msgctxt "#31267"
+msgid "disable festive overlay"
+msgstr "DÉSACTIVER LA SUPERPOSITION FESTIVE"
+
+msgctxt "#31268"
+msgid "enable default to last systems rom list"
+msgstr "ACTIVER PAR DÉFAUT LA LISTE DE ROM DU DERNIER SYSTÈME"
+
+msgctxt "#31269"
+msgid "enable intro video"
+msgstr "ACTIVER LA VIDÉO D'INTRODUCTION"
+
+msgctxt "#31270"
+msgid "enable kiosk mode"
+msgstr "activer le mode kiosque"
+
+msgctxt "#31271"
+msgid "enable reload emustation after game/rom"
+msgstr "ACTIVER LE RECHARGEMENT D'EMUSTATION APRÈS UN JEU/ROM"
+
+msgctxt "#31272"
+msgid "disable favourites carousel tile"
+msgstr "DÉSACTIVER L'ICÔNE FAVORIS DU CARROUSEL"
+
+## customization - custom_customizehome.xml - 31290 to 31319
+
+msgctxt "#31290"
+msgid "change theme"
+msgstr "CHANGER DE THÈME"
+
+msgctxt "#31291"
+msgid "carousel effect"
+msgstr "effet carrousel"
+
+msgctxt "#31292"
+msgid "background effect"
+msgstr "effet de fond"
+
+msgctxt "#31293"
+msgid "transitions effect"
+msgstr "effet de transitions"
+
+msgctxt "#31294"
+msgid "instant"
+msgstr "INSTANTANÉ"
+
+msgctxt "#31295"
+msgid "fade"
+msgstr "fondu"
+
+msgctxt "#31296"
+msgid "slide"
+msgstr "GLISSÉ"
+
+msgctxt "#31297"
+msgid "change default carbon themes colour"
+msgstr "CHANGER LA COULEUR PAR DÉFAUT DES THÈMES DE CARBONE"
+
+msgctxt "#31298"
+msgid "custom tile"
+msgstr "TUILE PERSONNALISÉE"
+
+msgctxt "#31299"
+msgid "xbe to load"
+msgstr "xbe à charger"
+
+msgctxt "#31300"
+msgid "carousel icon"
+msgstr "ICÔNE DU CARROUSEL"
+
+msgctxt "#31301"
+msgid "carousel background image"
+msgstr "image de fond du carrousel"
+
+msgctxt "#31302"
+msgid "animations"
+msgstr ""
+
+msgctxt "#31303"
+msgid "show custom tile options"
+msgstr "AFFICHER LES OPTIONS DE TUILES PERSONNALISÉES"
+
+msgctxt "#31304"
+msgid "miscellaneous"
+msgstr "divers"
+
+
+## change themes - custom_themeselect.xml - 31320 to 31349 ( not really used but in case i want to expand it)
+
+
+## other settings - custom_scanersettings.xml and advancedsettings.xml - 31350 to 31379
+msgctxt "#31350"
+msgid "scan roms/games"
+msgstr "scanner les roms/jeux"
+
+msgctxt "#31351"
+msgid "scan all systems"
+msgstr "scanner tous les systèmes"
+
+msgctxt "#31352"
+msgid "manual update systems"
+msgstr "METTRE À JOUR MANUELLEMENT LES SYSTÈMES"
+
+msgctxt "#31353"
+msgid "refresh carousel information"
+msgstr "actualiser les informations du carrousel"
+
+msgctxt "#31354"
+msgid "xbox games artwork installer"
+msgstr "installateur d'illustrations de jeux xbox"
+
+msgctxt "#31355"
+msgid "custom asset paths"
+msgstr "CHEMINS D'ACTIFS PERSONNALISÉS"
+
+msgctxt "#31356"
+msgid "emulators folder"
+msgstr "DOSSIER ÉMULATEURS"
+
+msgctxt "#31357"
+msgid "media folder"
+msgstr "DOSSIER MÉDIA"
+
+msgctxt "#31358"
+msgid "roms paths"
+msgstr "chemins des roms"
+
+msgctxt "#31359"
+msgid "reset custom paths"
+msgstr "RÉINITIALISER LES CHEMINS PERSONNALISÉS"
+
+msgctxt "#31360"
+msgid "download required"
+msgstr "TÉLÉCHARGEMENT REQUIS"
+
+msgctxt "#31361"
+msgid "check for update"
+msgstr "VÉRIFIER POUR MISE À JOUR"
+
+msgctxt "#31362"
+msgid "patch most emulator save paths"
+msgstr "PATCHER LA PLUPART DES CHEMINS DE SAUVEGARDE DE L'ÉMULATEUR"
+
+msgctxt "#31363"
+msgid "Scanner Options"
+msgstr "Options du scan"
+
+msgctxt "#31364"
+msgid "Use _Resources for Xbox artwork"
+msgstr "Utiliser _Resources pour les illustrations Xbox"
+
+msgctxt "#31365"
+msgid "Overwrite existing Xbox artwork"
+msgstr "ÉCRASER LES ILLUSTRATIONS XBOX EXISTANTES"
+
+msgctxt "#31366"
+msgid "Use Synopsis naming format"
+msgstr "UTILISER LE FORMAT DE DÉNOMINATION DU SYNOPSIS"
+
+msgctxt "#31367"
+msgid "Scan for SegaCD - ISO/BIN/IMG/MP3"
+msgstr "Scanner pour SegaCD - ISO/BIN/IMG/MP3"
+
+msgctxt "#31368"
+msgid "View Log Files"
+msgstr "Afficher les fichiers journaux"
+
+## quit - custom_quit.xml - 31380 to 31399
+
+msgctxt "#31380"
+msgid "reload xbmc-emustation"
+msgstr "recharger xbmc-emustation"
+
+msgctxt "#31381"
+msgid "restart xbox"
+msgstr "REDÉMARRER LA XBOX"
+
+msgctxt "#31382"
+msgid "shutdown xbox"
+msgstr "ARRÊTER LA XBOX"
+
+## script - menu_loader.py - 31400 to 31429
+msgctxt "#31400"
+msgid "add current rom to $LOCALIZE[1036]"
+msgstr "ajouter la rom actuelle au $LOCALIZE[1036]"
+
+msgctxt "#31401"
+msgid "add current games to $LOCALIZE[1036]"
+msgstr "ajouter les jeux actuels au $LOCALIZE[1036]"
+
+msgctxt "#31402"
+msgid "artwork type"
+msgstr "type d'illustration"
+
+msgctxt "#31403"
+msgid "enable fanart"
+msgstr "activer fanart"
+
+msgctxt "#31404"
+msgid "XBE edit mode"
+msgstr "MODE D'ÉDITION XBE"
+
+msgctxt "#31405"
+msgid "jump to letter"
+msgstr "SAUTER À LA LETTRE"
+
+## SettingsScreenCalibration.xml - 31510 to 31515
+msgctxt "#31510"
+msgid "Get spinning disc to have as little wobble as possible."
+msgstr "Faites tourner le disque pour avoir le moins d'oscillation possible."
